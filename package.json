@@ -1,5 +1,5 @@
 {
-  "name": "chrome-extension-ts-starter",
+  "name": "xan-thus",
   "version": "0.0.1",
   "description": "chrome extension starter pack with typescript",
   "scripts": {
@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hykwtakumin/ChromeExtension-TS-Starter.git"
+    "url": "git+https://github.com/Hykwtakumin/XAN-THUS.git"
   },
   "author": "hykwtakumin <hykwtakumin@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stkay/ChromeExtension-TS-Starter/issues"
+    "url": "https://github.com/Hykwtakumin/XAN-THUS/issues"
   },
-  "homepage": "https://github.com/stkay/ChromeExtension-TS-Starter#readme",
+  "homepage": "https://github.com/Hykwtakumin/XAN-THUS#readme",
   "dependencies": {
     "@types/es6-promise": "^3.3.0",
     "axios": "^0.18.0",
