@@ -5,7 +5,7 @@
 
 ## Getting Started
 
-    % git clone https://github.com/Hykwtakumin/ChromeExtension-TS-Starter.git
+    % git clone https://github.com/Hykwtakumin/XAN-THUS.git
     % npm install
     % npm run build
     
