@@ -1,0 +1,36 @@
+{
+  "name": "XAN-THUS",
+  "version": "0.0.1",
+  "description": "Chrome extension makes browsing first",
+  "icons": {
+    "128": "icons/bigicon.png"
+  },
+  "browser_action": {
+  },
+  "permissions": [
+    "<all_urls>"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "scripts/content.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "background": {
+    "script": "background.js"
+  },
+  "options_page": "pages/option.html",
+  "options_ui": {
+    "page": "pages/option.html",
+    "open_in_tab": true
+  },
+  "web_accessible_resources": [
+    "/icons/bigicon.png"
+  ],
+  "manifest_version": 2
+}
