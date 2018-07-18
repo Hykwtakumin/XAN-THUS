@@ -1,15 +1,6 @@
-# ChromeExtension-TS-Starter
+# XAN-THUS
 
-BoilerPlate project of Chrome Extension
 
-this project uses:
- - typescript
- - browserify
- 
- this project does NOT use:
- - yeomen
- - Webpack
- - gulp
 
 
 ## Getting Started
