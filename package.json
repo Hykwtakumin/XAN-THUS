@@ -27,12 +27,12 @@
   "dependencies": {
     "@types/es6-promise": "^3.3.0",
     "axios": "^0.18.0",
-    "chrome-promise": "^3.0.2"
+    "chrome-promise": "^3.0.4"
   },
   "devDependencies": {
-    "@types/chrome": "^0.0.68",
-    "browserify": "^16.2.2",
-    "tslint": "^5.10.0",
-    "typescript": "^2.9.1"
+    "@types/chrome": "^0.0.80",
+    "browserify": "^16.2.3",
+    "typescript": "^3.3.3",
+    "cached-path-relative": ">=1.0.2"
   }
 }
