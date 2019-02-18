@@ -8,3 +8,5 @@ chrome.runtime.onInstalled.addListener(async (details) => {
 chrome.runtime.onUpdateAvailable.addListener(async (details) => {
     reloadExtension();
 });
+
+/*TODO: Check Cache extermination time.*/
